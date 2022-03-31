@@ -52100,7 +52100,7 @@ k.toString
 r=A.mU(!1,m,!0,A.iV(f,new A.cW(new A.aX(22,20,22,20),A.nx(A.a([A.mf(A.li("Telefone",B.bN,A.fg(f,f,k,f,f,f,f,f,f,f,f,13,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f),f,f)],o),B.c5,B.aR),f),f,new A.dR(f,f,a,l,f,f,B.ap),f,f,f,f),f,!0,f,f,f,r,f,f,f,f,f,new A.PG(g,a2),f,f,f)
 l=A.ij(f,35,f)
 a=A.li("Redes Sociais ",f,A.fg(f,f,B.r,f,f,f,f,f,f,f,f,16,f,B.a6,f,f,!0,f,f,f,f,f,f,f,f),f,f)
-k=A.ij(f,25,f)
+k=A.ij(f,24,f)
 m=A.fy(10)
 j=B.D.i(0,300)
 j.toString
@@ -52133,8 +52133,8 @@ return A.a0($async$o8,r)},
 nX(a){var s=0,r=A.a1(t.hh),q
 var $async$nX=A.a2(function(b,c){if(b===1)return A.Z(c,r)
 while(true)switch(s){case 0:s=2
-return A.a6(A.lR("https://www.instagram.com/juehrlich/"),$async$nX)
-case 2:if(c)A.lV("https://www.instagram.com/juehrlich/")
+return A.a6(A.lR("https://www.instagram.com/drajuehrlich/"),$async$nX)
+case 2:if(c)A.lV("https://www.instagram.com/drajuehrlich/")
 else{q=a.R(t.q)
 q.toString
 q.f.kN(A.u3(A.D9("OK",new A.PA(a)),null,null,null,B.Ic,B.bp,B.aM,null,null,null,null,null,null,null))}return A.a_(null,r)}})

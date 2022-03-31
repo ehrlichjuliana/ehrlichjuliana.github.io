@@ -199,7 +199,7 @@ class HomeLinkJerhSreen extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                height: 25,
+                height: 24,
               ),
               InkWell(
                 borderRadius: BorderRadius.circular(10),
@@ -285,7 +285,7 @@ class HomeLinkJerhSreen extends StatelessWidget {
   }
 
   Future<Function?> _instagram(context) async {
-    var _url = "https://www.instagram.com/juehrlich/";
+    var _url = "https://www.instagram.com/drajuehrlich/";
 
     if (await canLaunch(_url)) {
       launch(_url);
